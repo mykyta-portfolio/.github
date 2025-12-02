@@ -8,8 +8,8 @@ Here is my repository catalogue 👇
 ---
 
 ## 🌐 Web Projects
-- [Portfolio Website](https://github.com/your-org-name/portfolio-site) — my personal portfolio site  
-- [Blog Template](https://github.com/your-org-name/blog-template) — a minimal HTML/CSS/JS blog layout  
+- [6-hooks](https://github.com/mykyta-portfolio/6-hooks) — ***React***, Introduction to react hooks
+- [to-do](https://github.com/mykyta-portfolio/to-do) — ***React***, to-do list 
 
 ---
 
