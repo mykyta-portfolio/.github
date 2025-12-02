@@ -26,6 +26,16 @@ Here is my repository catalogue 👇
 
 ---
 
+## ☕ Java Projects
+- [java-console-calculator](https://github.com/mykyta-portfolio/java-console-calculator) — console calculator
+
+---
+
+## 🎯 C#
+- [cs-console-calculator](https://github.com/mykyta-portfolio/cs-console-calculator) — console calculator
+
+---
+
 ## 📊 Other Projects
 - [Study Tools](https://github.com/your-org-name/study-tools) — useful scripts for learning and productivity  
 - [Game Experiments](https://github.com/your-org-name/game-experiments) — small prototypes exploring game logic  
