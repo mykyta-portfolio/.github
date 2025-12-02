@@ -36,7 +36,8 @@ Here is my repository catalogue 👇
 
 ---
 
-## 📊 Blender Projects (3D)
+## <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="90px">
+ Blender Projects (3D)
 - [3d-dna](https://github.com/mykyta-portfolio/3d-dna) — two DNAs, working with particles, animation, and also Photoshop  
 - [3d-christmas-hat](https://github.com/mykyta-portfolio/3d-christmas-hat) — 3D model with render of a Christmas hat
 - [3d-christmas-tree](https://github.com/mykyta-portfolio/3d-christmas-tree) — model of a Christmas tree with render
