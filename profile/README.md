@@ -10,6 +10,8 @@ Here is my repository catalogue 👇
 ## 🌐 Web Projects
 - [6-hooks](https://github.com/mykyta-portfolio/6-hooks) — ***React***, Introduction to react hooks
 - [to-do](https://github.com/mykyta-portfolio/to-do) — ***React***, to-do list 
+- [api-vocabluary](https://github.com/mykyta-portfolio/api-vocabluary) — ***API***, The explanatory dictionary
+- [joke-generator](https://github.com/mykyta-portfolio/joke-generator) — ***API***, joke-generator 
 
 ---
 
