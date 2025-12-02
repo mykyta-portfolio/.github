@@ -7,16 +7,14 @@ Here is my repository catalogue 👇
 
 ---
 
-## 🐍 Python Projects
-- [Matrix Calculator](https://github.com/your-org-name/matrix-calc) — multiplies a matrix by its transpose  
-- [Progression Solver](https://github.com/your-org-name/progression-solver) — works with arithmetic progressions  
-- [Quadratic Equation](https://github.com/your-org-name/quadratic-equation) — solves quadratic equations  
-
----
-
 ## 🌐 Web Projects
 - [Portfolio Website](https://github.com/your-org-name/portfolio-site) — my personal portfolio site  
 - [Blog Template](https://github.com/your-org-name/blog-template) — a minimal HTML/CSS/JS blog layout  
+
+---
+
+## 🐍 Python Projects
+- [Calculator](https://github.com/mykyta-portfolio/calculator) — a fully functioning calculator application
 
 ---
 
