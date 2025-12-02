@@ -16,6 +16,8 @@ Here is my repository catalogue 👇
 - [memory-game](https://github.com/mykyta-portfolio/memory-game) — ***JS***, cards memory-game
 - [isometric-elements](https://github.com/mykyta-portfolio/isometric-elements) — ***JS***, isometric-elements
 - [clock](https://github.com/mykyta-portfolio/clock) — ***JS***, clock
+- [bootstrap-5-responsive](https://github.com/mykyta-portfolio/bootstrap-5-responsive) — ***Bootstrap***, introduction to bootstrap
+- [home-website](https://github.com/mykyta-portfolio/home-website) — introduction to video wallpaper 
   
 ---
 
