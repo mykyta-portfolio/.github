@@ -8,11 +8,15 @@ Here is my repository catalogue 👇
 ---
 
 ## 🌐 Web Projects
-- [6-hooks](https://github.com/mykyta-portfolio/6-hooks) — ***React***, Introduction to react hooks
+- [6-hooks](https://github.com/mykyta-portfolio/6-hooks) — ***React***, introduction to react hooks
 - [to-do](https://github.com/mykyta-portfolio/to-do) — ***React***, to-do list 
-- [api-vocabluary](https://github.com/mykyta-portfolio/api-vocabluary) — ***API***, The explanatory dictionary
+- [api-vocabluary](https://github.com/mykyta-portfolio/api-vocabluary) — ***API***, the explanatory dictionary
 - [joke-generator](https://github.com/mykyta-portfolio/joke-generator) — ***API***, joke-generator 
-
+- [product-filter-search](https://github.com/mykyta-portfolio/product-filter-search) — ***JS***, search by product name
+- [memory-game](https://github.com/mykyta-portfolio/memory-game) — ***JS***, cards memory-game
+- [isometric-elements](https://github.com/mykyta-portfolio/isometric-elements) — ***JS***, isometric-elements
+- [clock](https://github.com/mykyta-portfolio/clock) — ***JS***, clock
+  
 ---
 
 ## 🐍 Python Projects
