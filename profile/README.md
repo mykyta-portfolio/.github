@@ -31,14 +31,18 @@ Here is my repository catalogue 👇
 
 ---
 
-## 🎯 C#
+## 🎯 C# Projects
 - [cs-console-calculator](https://github.com/mykyta-portfolio/cs-console-calculator) — console calculator
 
 ---
 
-## 📊 Other Projects
-- [Study Tools](https://github.com/your-org-name/study-tools) — useful scripts for learning and productivity  
-- [Game Experiments](https://github.com/your-org-name/game-experiments) — small prototypes exploring game logic  
+## 📊 Blender Projects (3D)
+- [3d-dna](https://github.com/mykyta-portfolio/3d-dna) — two DNAs, working with particles, animation, and also Photoshop  
+- [3d-christmas-hat](https://github.com/mykyta-portfolio/3d-christmas-hat) — 3D model with render of a Christmas hat
+- [3d-christmas-tree](https://github.com/mykyta-portfolio/3d-christmas-tree) — model of a Christmas tree with render
+- [3d-cart-wagon](https://github.com/mykyta-portfolio/3d-cart-wagon) — a complex model of a mobile home in a minimalist fantasy style
+- [3d-ramen](https://github.com/mykyta-portfolio/3d-ramen) — ramen bowl, textured model
+- [3d-tree-house](https://github.com/mykyta-portfolio/3d-tree-house) — detailed model of a magical tree house
 
 ---
 
